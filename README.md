@@ -29,14 +29,6 @@ O objetivo principal foi transformar dados brutos de registros de vendas em uma 
 ### 3. Filtros Dinâmicos (UX)
 * **Segmentação Eficiente:** Implementação de um Segmentador Horizontal (*Tile Slicer*) por Ano, evitando a necessidade de Bookmarks complexos e mantendo a alta performance e leveza do relatório (`.pbix`).
 
-## 🎥 Demonstração Prática
+### 🎥 Demonstração Prática
 
-<kbd>
-  <video src="https://raw.githubusercontent.com/OgaRodrigues/dashboard-vendas-byd/main/media/dashboard.gif"
-         width="100%"
-         controls
-         autoplay
-         loop
-         muted>
-  </video>
-</kbd>
+![Demonstração do Dashboard](./media/Gravacao_BYD_DASH.gif)
