@@ -1,0 +1,97 @@
+Data;Marca;Modelo;Tipo_Motor;Unidades_Vendidas
+01/2024;BYD;Dolphin EV;100% Eletrico;1820
+01/2024;BYD;Song Plus;Hibrido Plug-in;1520
+01/2024;BYD;Yuan Plus;100% Eletrico;350
+02/2024;BYD;Dolphin EV;100% Eletrico;1610
+02/2024;BYD;Song Plus;Hibrido Plug-in;1420
+02/2024;BYD;Yuan Plus;100% Eletrico;290
+03/2024;BYD;Dolphin Mini;100% Eletrico;2480
+03/2024;BYD;Dolphin EV;100% Eletrico;1430
+03/2024;BYD;Song Plus;Hibrido Plug-in;1910
+04/2024;BYD;Dolphin Mini;100% Eletrico;3143
+04/2024;BYD;Song Plus;Hibrido Plug-in;1699
+04/2024;BYD;Dolphin EV;100% Eletrico;1243
+05/2024;BYD;Dolphin Mini;100% Eletrico;2100
+05/2024;BYD;Song Plus;Hibrido Plug-in;1540
+05/2024;BYD;Dolphin EV;100% Eletrico;1110
+06/2024;BYD;Dolphin Mini;100% Eletrico;2300
+06/2024;BYD;Song Plus;Hibrido Plug-in;1710
+06/2024;BYD;King;Hibrido Plug-in;640
+07/2024;BYD;Dolphin Mini;100% Eletrico;2650
+07/2024;BYD;Song Plus;Hibrido Plug-in;1890
+07/2024;BYD;King;Hibrido Plug-in;890
+08/2024;BYD;Dolphin Mini;100% Eletrico;2910
+08/2024;BYD;Song Plus;Hibrido Plug-in;2120
+08/2024;BYD;King;Hibrido Plug-in;1100
+09/2024;BYD;Dolphin Mini;100% Eletrico;2730
+09/2024;BYD;Song Plus;Hibrido Plug-in;2050
+09/2024;BYD;Song Pro;Hibrido Plug-in;870
+10/2024;BYD;Dolphin Mini;100% Eletrico;2808
+10/2024;BYD;Song Plus;Hibrido Plug-in;2340
+10/2024;BYD;Song Pro;Hibrido Plug-in;1120
+11/2024;BYD;Dolphin Mini;100% Eletrico;3010
+11/2024;BYD;Song Plus;Hibrido Plug-in;2410
+11/2024;BYD;Song Pro;Hibrido Plug-in;1340
+12/2024;BYD;Dolphin Mini;100% Eletrico;3450
+12/2024;BYD;Song Plus;Hibrido Plug-in;2680
+12/2024;BYD;Song Pro;Hibrido Plug-in;1510
+01/2025;BYD;Dolphin Mini;100% Eletrico;3200
+01/2025;BYD;Song Plus;Hibrido Plug-in;2100
+01/2025;BYD;Song Pro;Hibrido Plug-in;1200
+02/2025;BYD;Dolphin Mini;100% Eletrico;3110
+02/2025;BYD;Song Plus;Hibrido Plug-in;1980
+02/2025;BYD;King;Hibrido Plug-in;950
+03/2025;BYD;Dolphin Mini;100% Eletrico;3600
+03/2025;BYD;Song Plus;Hibrido Plug-in;2450
+03/2025;BYD;Song Pro;Hibrido Plug-in;1410
+04/2025;BYD;Dolphin Mini;100% Eletrico;3850
+04/2025;BYD;Song Plus;Hibrido Plug-in;2600
+04/2025;BYD;King;Hibrido Plug-in;1150
+05/2025;BYD;Dolphin Mini;100% Eletrico;4100
+05/2025;BYD;Song Plus;Hibrido Plug-in;2750
+05/2025;BYD;Song Pro;Hibrido Plug-in;1600
+06/2025;BYD;Dolphin Mini;100% Eletrico;4400
+06/2025;BYD;Song Plus;Hibrido Plug-in;2900
+06/2025;BYD;King;Hibrido Plug-in;1250
+07/2025;BYD;Dolphin Mini;100% Eletrico;4800
+07/2025;BYD;Song Plus;Hibrido Plug-in;3100
+07/2025;BYD;Song Pro;Hibrido Plug-in;1850
+08/2025;BYD;Dolphin Mini;100% Eletrico;5100
+08/2025;BYD;Song Plus;Hibrido Plug-in;3300
+08/2025;BYD;King;Hibrido Plug-in;1300
+09/2025;BYD;Dolphin Mini;100% Eletrico;4950
+09/2025;BYD;Song Plus;Hibrido Plug-in;3150
+09/2025;BYD;Song Pro;Hibrido Plug-in;1750
+10/2025;BYD;Dolphin Mini;100% Eletrico;5300
+10/2025;BYD;Song Plus;Hibrido Plug-in;3400
+10/2025;BYD;King;Hibrido Plug-in;1400
+11/2025;BYD;Dolphin Mini;100% Eletrico;5600
+11/2025;BYD;Song Plus;Hibrido Plug-in;3650
+11/2025;BYD;Song Pro;Hibrido Plug-in;1950
+12/2025;BYD;Dolphin Mini;100% Eletrico;6100
+12/2025;BYD;Song Plus;Hibrido Plug-in;4100
+12/2025;BYD;King;Hibrido Plug-in;1550
+01/2026;BYD;Dolphin Mini;100% Eletrico;5800
+01/2026;BYD;Song Plus;Hibrido Plug-in;3500
+01/2026;BYD;Song Pro;Hibrido Plug-in;1800
+02/2026;BYD;Dolphin Mini;100% Eletrico;5500
+02/2026;BYD;Song Plus;Hibrido Plug-in;3200
+02/2026;BYD;King;Hibrido Plug-in;1300
+03/2026;BYD;Dolphin Mini;100% Eletrico;6478
+03/2026;BYD;Song Plus;Hibrido Plug-in;3900
+03/2026;BYD;Song Pro;Hibrido Plug-in;2100
+04/2026;BYD;Dolphin Mini;100% Eletrico;6800
+04/2026;BYD;Song Plus;Hibrido Plug-in;4200
+04/2026;BYD;King;Hibrido Plug-in;1500
+05/2026;BYD;Dolphin Mini;100% Eletrico;7200
+05/2026;BYD;Song Plus;Hibrido Plug-in;4600
+05/2026;BYD;Song Pro;Hibrido Plug-in;2400
+06/2026;BYD;Dolphin Mini;100% Eletrico;7500
+06/2026;BYD;Song Plus;Hibrido Plug-in;4900
+06/2026;BYD;King;Hibrido Plug-in;1650
+07/2026;BYD;Dolphin Mini;100% Eletrico;8100
+07/2026;BYD;Song Plus;Hibrido Plug-in;5400
+07/2026;BYD;Song Pro;Hibrido Plug-in;2800
+08/2026;BYD;Dolphin Mini;100% Eletrico;8299
+08/2026;BYD;Song Plus;Hibrido Plug-in;5620
+08/2026;BYD;Song Pro;Hibrido Plug-in;2950
