@@ -32,7 +32,7 @@ O objetivo principal foi transformar dados brutos de registros de vendas em uma 
 ## 🎥 Demonstração Prática
 
 <kbd>
-  <video src="https://raw.githubusercontent.com/OgaRodrigues/dashboard-vendas-byd/main/media/dashboard.mp4"
+  <video src="https://raw.githubusercontent.com/OgaRodrigues/dashboard-vendas-byd/main/media/dashboard.gif"
          width="100%"
          controls
          autoplay
